@@ -1,0 +1,41 @@
+﻿======================================================================
+Feito:
+======================================================================
+.has-success:after{color:#fff} (cor de fundo para paginas)
+#f96332 (laranja exato para o projeto)
+
+1º Criar prototipos de telas.
+2ª Iniciar desenvolvimento de telas.
+4º Desenvolver a tela logar
+
+======================================================================
+Estou Fazendo:
+======================================================================
+3º Desenvolver a tela index
+8º Desenvolver a tela manager
+
+
+
+======================================================================
+Falta Fazer:
+======================================================================
+5º Desenvolver a tela location
+6º Desenvolver a tela contact
+7º Desenvolver a tela about
+9º Desenvolver a tela activateProducts10º Desenvolver a tela localDelivery
+11º Desenvolver a tela clientReport
+12º Desenvolver a tela salesReport
+13º Textos e imagens de cada pagina do site.
+(Anexar ideias em arquivos word, paint, etc).
+
+https://demos.creative-tim.com/now-ui-kit-pro/examples/about-us.html?_ga=2.111327428.1577552564.1563837284-820051284.1563837284
+
+https://demos.creative-tim.com/now-ui-kit-pro/examples/contact-us.html?_ga=2.141295474.1577552564.1563837284-820051284.1563837284
+
+https://demos.creative-tim.com/now-ui-kit-pro/examples/pricing.html?_ga=2.141276274.1577552564.1563837284-820051284.1563837284
+
+https://demos.creative-tim.com/now-ui-kit-pro/examples/product-page.html?_ga=2.141276274.1577552564.1563837284-820051284.1563837284
+
+https://demos.creative-tim.com/now-ui-kit-pro/examples/signup-page.html?_ga=2.110139589.1577552564.1563837284-820051284.1563837284
+
+
